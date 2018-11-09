@@ -1,0 +1,51 @@
+h1{
+    text-align: center;
+}
+#menu a{
+    text-decoration: none;
+    background-color: appworkspace;
+    padding: 5px;
+}
+#menu li{
+    list-style-type: none;
+    padding: 5px;  
+}
+#apostas li{
+    text-align: center;
+    display: inline-block;   
+}
+#apostas button{
+    padding-left: 55px;
+    padding-right: 55px;
+    border-radius: 10px;
+}
+#apostas ul{
+    margin-left: 320px;
+}
+
+#menu ul{
+    float: left;
+}
+#apresentacao{
+    text-align: center;
+}
+
+#centro{
+    width: 700px;
+    height: 350px;
+    float: right;
+    border: 1px solid black;
+    margin-right: 300px;
+    text-align: center;
+    border-radius: 10px;
+}
+#centro li{
+    display: inline-block;
+    padding: 30px;
+    border: 1px solid black;
+}
+#centro ul{
+    margin-left: 80px;
+    margin-top: 100px;
+}
+
